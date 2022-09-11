@@ -1,0 +1,20 @@
+<section id="about">
+<div class="container">
+    <div class="row align-items-center justify-content-center text-center py-5">
+        
+        <!--Headshot Image-->
+        <div class="col-6 col-md-4">
+            <img src="https://unsplash.com/photos/f6jzzn2EMnQ" alt="Baby Yoda" class="img-fluid"/>
+        </div>
+       
+        <!--about me-->
+        <div class="col-lg-8 my-3">
+            <h2 class="display-1 font weight-bold">Baby Yoda</h2>
+            <hr class= "my-4"/>
+            <p> Put something about myself here.
+            </p>
+            <a class="btn btn-primary btn-lg mt-3" role="button"href="#contact">Contact Me</a>
+        </div>
+    </div>
+</div>
+</section>
